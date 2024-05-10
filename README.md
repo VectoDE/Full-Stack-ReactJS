@@ -1,4 +1,4 @@
-**# Full-Stack ReactJS E-Commerce Projekt**
+**Full-Stack ReactJS E-Commerce Projekt**
 
 Dieses Repository enthält ein Full-Stack ReactJS Projekt mit verschiedenen Funktionen, darunter E-Commerce, Blog, Ticketverwaltung und mehr.
 
